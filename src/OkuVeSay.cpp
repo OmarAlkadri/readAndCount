@@ -5,7 +5,6 @@
  * @assignment 1.Odev
  * @date Kodu 28/11/19
  * @author Omar Alkadri omar.alkadri@ogr.sakarya.edu.tr
- * @author Avad almohammadalibrahim awad.alibrahim@ogr.sakarya.edu
  */
 #include "OkuVeSay.hpp"
 AddShortcut::AddShortcut()
